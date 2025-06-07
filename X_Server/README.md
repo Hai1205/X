@@ -39,7 +39,7 @@ X Client is a modern social networking web application built with React, Redux T
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/Hai1205/X_Server.git
+git clone https://github.com/Hai1205/X.git
 cd X_Server
 ```
 
@@ -55,11 +55,3 @@ cd X_Server
 ```
 
 API is available at: http://localhost:8080
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Author:** [Hai1205](https://github.com/hai1205)
